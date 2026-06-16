@@ -6,3 +6,5 @@ let item2 = Number("10"); // Convert string to a number
 
 let total = item1 + item2;
 console.log("Total price:", total);
+
+
